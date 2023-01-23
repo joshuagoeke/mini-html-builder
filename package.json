@@ -1,0 +1,23 @@
+{
+  "name": "mini-html-builder",
+  "version": "1.0.0",
+  "description": "In this homework assignment from the University of Texas-Austin Bootcamp we were asked to ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuagoeke/mini-html-builder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuagoeke/mini-html-builder/issues"
+  },
+  "homepage": "https://github.com/joshuagoeke/mini-html-builder#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
